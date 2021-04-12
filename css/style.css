@@ -22,6 +22,7 @@ body {
 }
 .title {
   font-weight: bold;
+  margin: 0;
   font-size: 70px;
   line-height: 85px;
   color: #ffffff;
@@ -70,6 +71,8 @@ body {
   padding-left: 73px;
 }
 .text-joke {
+  display: block;
+  width: 811px;
   font-weight: normal;
   font-size: 36px;
   line-height: 44px;
