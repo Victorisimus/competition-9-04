@@ -46,7 +46,7 @@ body {
   margin-top: 90px;
   padding-left: 73px;
 }
-.italic {
+.italic-text {
   font-style: italic;
   font-weight: bold;
   font-size: 36px;
@@ -61,7 +61,7 @@ body {
   margin-top: 20px;
   margin-left: 73px;
 }
-.title-item {
+.title-joke {
   margin-top: 90px;
   text-transform: uppercase;
   font-weight: 500;
@@ -76,7 +76,7 @@ body {
   padding-left: 73px;
   padding-right: 116px;
 }
-.link-joke {
+.link-jokes {
   margin-top: 90px;
   padding-left: 73px;
   font-weight: 500;
